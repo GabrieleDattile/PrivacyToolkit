@@ -4,3 +4,4 @@ Eliminazione di un singolo file: Chiede all'utente di inserire il percorso del f
 Eliminazione di tutti i file in una directory: Chiede all'utente di inserire il percorso della directory da svuotare e poi esegue lo shred su tutti i file all'interno di essa.
 
 Prima di eseguire questo script, assicurati di aver installato shred sul tuo sistema. 
+con coreutils  che include il comando shred
